@@ -1,0 +1,29 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite
+  workflow_dispatch: # Permite executar manualmente
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      # Clonar o repositório
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Gerar a animação da cobra
+      - name: Generate Snake SVG
+        uses: Platane/snk@v2
+        with:
+          github_user_name: "villenneve" # Substitua pelo seu username
+          outputs: dist/snake.svg
+
+      # Criar um commit automático com a nova animação
+      - name: Commit and Push Snake Animation
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "Atualiza Snake Animation 🐍"
+          branch: ${{ github.ref_name }}
+          file_pattern: dist/snake.svg
