@@ -5,7 +5,7 @@
 </p>
 
 
-Founder | Blockchain Solutions Engineer | Bank
+Computer Engineer | Blockchain | Web3
 
 ## 🚀 Skills
 
@@ -37,11 +37,47 @@ Building the future at:
 * **IT Analyst** - Grupo Edson Queiroz ([April 2009 - January 2017])
     * Analyst responsible for taxes, electronic invoice issuance, solution architecture, and business analysis.
 
-## 🌱 Atualmente aprendendo
+## 🌱 Currently Learning
 
-Em constante evolução, explorando:
+I am constantly evolving, exploring, and mastering cutting-edge technologies to develop innovative solutions:
 
-* [Quais tecnologias você está aprendendo no momento? 🤔]
+### 🚀 Smart Contracts and Blockchain
+- **Ethereum Blockchain (Sepolia Network):** Developing smart contracts focused on automating financial processes and tokenization.
+- **Solidity:** Creating robust and secure smart contracts optimized for gas efficiency.
+- **Rust:** Leveraging security and performance in building smart contracts for **Substrate-based blockchains** (e.g., Polkadot) and **Solana**.
+- **Hardhat and Foundry:** Utilizing modern frameworks to efficiently write, test, and deploy smart contracts.
+
+### 🛡️ Smart Contract Security
+- **Echidna and MythX:** Testing vulnerabilities in smart contracts, such as reentrancy, overflow/underflow, and private variable exposure.
+- **Slither and Remix Analyzer:** Implementing static analysis tools to identify security flaws and enhance code quality.
+- **Contract Audits:** Developing strategies to reduce risks and ensure the reliability of smart contracts.
+
+### 🌐 Web3 and Integration
+- **Next.js and Wagmi:** Building decentralized interfaces to interact with smart contracts, focusing on user experience.
+- **Ethers.js and Web3.js:** Facilitating communication between decentralized applications and blockchain networks.
+- **GraphQL and The Graph:** Structuring data and creating APIs to improve the performance of Web3 applications.
+
+### 📈 Decentralized Finance (DeFi)
+- **DeFi Protocols:** Exploring the decentralized finance ecosystem, including **Aave**, **Uniswap**, and **Compound**, to create disruptive solutions.
+- **Stablecoins and ERC-20 Tokens:** Implementing and customizing tokens for use in global financial systems.
+
+### ☁️ Decentralized Computing
+- **IPFS (InterPlanetary File System):** Developing solutions for distributed file storage and data persistence on decentralized networks.
+- **Arweave:** Exploring efficient and permanent data storage solutions for essential information.
+
+### 🔒 Privacy and Cryptography
+- **ZK-Snarks (Zero-Knowledge Proofs):** Testing and implementing zero-knowledge proofs to enhance privacy in blockchain transactions.
+- **Libsodium and OpenZeppelin:** Utilizing modern cryptographic libraries to ensure data integrity and security.
+
+### 🤖 Artificial Intelligence and Blockchain
+- **AI Smart Contracts:** Experimenting with smart contracts integrated with AI using **ChatGPT API** and **TensorFlow.js** for intelligent automation.
+- **Oracles (Chainlink):** Incorporating real-world data into smart contracts to enable automated decisions based on external information.
+
+### 💡 Exploring Future Trends
+- **Layer 2 Solutions:** Mastering technologies like **Optimism** and **Arbitrum** to improve Ethereum scalability.
+- **Cross-chain Bridges:** Developing solutions for interoperability between different blockchains.
+- **DAOs (Decentralized Autonomous Organizations):** Creating frameworks for decentralized governance using smart contracts.
+
 
 ## 💻 Featured Projects
 
