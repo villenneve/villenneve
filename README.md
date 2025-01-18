@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Gilly Villenneve Teixeira Lopes
 
-<p align="center"> 
-  <img src="https://media.licdn.com/dms/image/C4E03AQGhmK_K4qB5Bw/profile-displayphoto-shrink_800_800/0/1637442935378?e=1678320000&v=beta&t=dHk6aWJC29jWj5_yUrX-b63z_9r92jK2bG4LjO9c22A" alt="Foto de Perfil do Gilly Villenneve"> 
+<p align="center">
+  <img src="https://i.imgflip.com/9h51u4.gif" alt="GIF interativo" width="500"/>
 </p>
 
 Founder | Blockchain Solutions Engineer | Bank
