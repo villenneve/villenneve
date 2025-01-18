@@ -42,8 +42,6 @@ Em constante evolução, explorando:
 
 * [Quais tecnologias você está aprendendo no momento? 🤔]
 
-## 💻 Projetos em Destaque
-
 ## 💻 Featured Projects
 
 * **Tybank - Digital Bank for international operations between Brazil and China:** Development of an innovative digital bank focused on international transactions between Brazil and China, using cutting-edge technologies to ensure security, scalability, and efficiency. ([www.tybank.com.br](www.tybank.com.br))
@@ -74,5 +72,10 @@ Vamos conectar!
 ## 📊 Estatísticas do GitHub
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=villeneve)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🐍 Snake Eating My Contributions
+
+![Snake animation](https://github.com/villenneve/villenneve/blob/output/snake.svg)
+
 
 ---
