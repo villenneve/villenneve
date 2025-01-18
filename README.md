@@ -75,7 +75,7 @@ Vamos conectar!
 
 ### 🐍 Snake Eating My Contributions
 
-![Snake animation](https://github.com/villenneve/villenneve/blob/output/snake.svg)
+![Snake animation](https://github.com/villenneve/villenneve/blob/main/snake.svg)
 
 
 ---
