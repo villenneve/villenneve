@@ -15,7 +15,7 @@ jobs:
 
       # Gerar a animação da cobra
       - name: Generate Snake SVG
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: "villenneve" # Substitua pelo seu username
           outputs: dist/snake.svg
