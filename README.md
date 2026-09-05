@@ -14,7 +14,7 @@ Mastering the art of turning code into reality with:
 * **Languages:** C, C++, C# ASPNet Core3, Python 🐍, Java, PowerBuilder, TypeScript 🔵, Flutter, React Native, RESTFul, JavaScript ☕, Solidity 💎
 * **Frameworks:** React ⚛️, Node.js 🟢, Next.js ⏭️, (Others you use)
 * **Databases:** Relational and Non-relational Databases, MySQL 🐬, PostgreSQL 🐘, MongoDB 🍃
-* **Cloud Computing:** AWS (Lambda, CloudFront, EC2, S3, EKS, AIM, Certificate Manager, Pinpoint, RDS / DynamoDB, Macie, SES, Billing, SNS, VPC, Glue, Kinesis, EMR, Redshift), AZURE, Google Cloud
+* **Cloud Computing:** AWS (Lambda, CloudFront, ECS, S3, EKS, AIM, Certificate Manager, Pinpoint, RDS / DynamoDB, Macie, SES, Billing, SNS, VPC, Glue, Kinesis, EMR, Redshift), AZURE, Google Cloud
 * **Other tools:** Git 🐙, Docker 🐳, Linux 🐧, Embedded Systems, Blockchain - Etherion, Hadoop, Spark, Kafka, Big Data, Internet of Things (IoT), COBIT v5, BABOK v3, CBOK v3, ITIL v3, PMBOK v6
 
 ## 💼 Experience
@@ -81,7 +81,7 @@ I am constantly evolving, exploring, and mastering cutting-edge technologies to 
 
 ## 💻 Featured Projects
 
-* **Tybank - Digital Bank for international operations between Brazil and China:** Development of an innovative digital bank focused on international transactions between Brazil and China, using cutting-edge technologies to ensure security, scalability, and efficiency. ([www.tybank.com.br](www.tybank.com.br))
+* **Tybank - Digital Bank for international operations between Brazil and China:** Development of an innovative digital bank focused on international transactions between Brazil and China, using cutting-edge technologies to ensure security, scalability, and efficiency. ([www.tybank.com.br](https://www.tybank.com.br))
 
     * **Microservices Architecture:** Building a robust and scalable architecture using **Golang** for backend microservices, ensuring high performance and availability to process a large volume of transactions.
     * **Smart Contracts:** Implementing smart contracts with **Solidity** to automate and ensure the security of international operations, such as transfers, currency conversions, and compliance management.
